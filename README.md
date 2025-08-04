@@ -12,8 +12,8 @@ E por fim, o botão salvar, salvará as informações da turma do professor e en
 ##Premissas assumidas
 
 Ao criar o sistema, pensei em fazer, uma api completa, onde os possiveis professores, teriam seu login, que faria o armazenamento dos dados de forma que fosse mais simples salvar os alunos.
-Porém, depois de muito tempo, estudando o React, percebi que seria mais fácil e objetivo, fazer somente a pagina dos alunos. E assim foi feita, onde as premissas seriam, entregar um sistema, simples, dinamico
-e prático para que qualquer um pudesse utiliza-lo, e no processo aderi as condições pedidas na requisição da Dti.
+
+Porém, depois de muito tempo, estudando o React(escolhido pois foi dito como desejável, porém, não é o que mais utilizo no meu dia a dia, sendo essas C# e suas apis), percebi que seria mais fácil e objetivo, fazer somente a pagina dos alunos, já que o tempo seria curto para aprender e executar. Sendo assim, decidi cria um sistema mais simple mas que adequasse as necessidades exigidas pelo desafio, onde as premissas simplicidade, dinamismo e responsividade, além de ser prático para que qualquer um pudesse utilizá-lo. Tendo como norte, as condições pedidas na requisição da Dti.
 
 ##Especificações
 
